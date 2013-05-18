@@ -1,4 +1,4 @@
 freezing-bear
 =============
 
-Utility scripts
+Utility scripts for all kinds of things
