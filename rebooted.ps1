@@ -1,0 +1,1 @@
+Get-EventLog -logname system -source user32 -newest 1 | format-table -wrap
