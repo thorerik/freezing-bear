@@ -23,3 +23,7 @@ Gets the last 2 logs from IIS events
 *.sql
 =====
 T-SQL magic, use with care as they are related to sysjobs.
+
+*.vbs
+=====
+Blindly copied from http://www.activexperts.com/activmonitor/windowsmanagement/scripts/activedirectory/monitoring/ for reference.
