@@ -1,0 +1,1 @@
+for server in list; do command $server; done
