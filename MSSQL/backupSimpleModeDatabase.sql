@@ -1,0 +1,2 @@
+USE [<databasename>]
+checkpoint
