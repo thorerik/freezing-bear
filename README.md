@@ -26,5 +26,5 @@ Gets the last 2 logs from IIS events
 ## MSSQL
 
 ### *.sql
-T-SQL magic, use with care as they are related to sysjobs.
+T-SQL magic, use with care as some are related to sysjobs.
 
